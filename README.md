@@ -12,6 +12,8 @@ GitHub: ElcioLS
 
 
 ![image](https://user-images.githubusercontent.com/89614792/184272264-2704b1d7-0b43-4a85-8924-1a7b6b759086.png)
+![image](https://user-images.githubusercontent.com/89614792/184272539-ff206fb0-7f25-47ef-a6c9-fe5ecef3eaee.png)
+
 
 
 Languages and Tools
