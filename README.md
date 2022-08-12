@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi 👋, I'm ElcioLS!
+A Flutter student and programmer who loves technology😜
 
-<!--
-**ElcioLS/ElcioLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub: ElcioLS
 
-Here are some ideas to get you started:
+    🔭  I’m currently working on my own projects!
+    🌱  I’m currently learning Flutter ❤️
+    🗿  I am one of the early adopters of Flutter, it has been more than 2 years
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me
+
+ElcioLS
+
+
+Languages and Tools
+
+“Flutter” “Firebase” “Dart” “Github”
+
