@@ -11,7 +11,8 @@ GitHub: ElcioLS
     🌱  I’m currently learning Flutter ❤️
 
 
-![image](https://user-images.githubusercontent.com/89614792/184270287-40ab9202-62a7-400b-bcf8-0fc0c305d9b8.png)
+![image](https://user-images.githubusercontent.com/89614792/184272264-2704b1d7-0b43-4a85-8924-1a7b6b759086.png)
+
 
 Languages and Tools
 
