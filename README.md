@@ -4,9 +4,10 @@ A Flutter student and programmer who loves technology😜
 
 GitHub: ElcioLS
 
+
+    🗿  I've been preparing to use Flutter, it's been over 2 years now
     🔭  I’m currently working on my own projects!
     🌱  I’m currently learning Flutter ❤️
-    🗿  I am one of the early adopters of Flutter, it has been more than 2 years
 
 Connect With Me
 
