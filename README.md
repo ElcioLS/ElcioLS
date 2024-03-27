@@ -15,7 +15,7 @@ GitHub: ElcioLS
 
 Languages and Tools
 
-“Flutter” “Dart” "BLoC" "Provider" "GetX" "MobX" “Firebase” “Github”
+"Python" “Flutter” “Dart” 
 
 ET-Flutter
 
